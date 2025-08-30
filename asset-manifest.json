@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/my-daily-report/static/js/main.d49e85ab.js",
+    "main.js": "/my-daily-report/static/js/main.3df546da.js",
     "index.html": "/my-daily-report/index.html",
-    "main.d49e85ab.js.map": "/my-daily-report/static/js/main.d49e85ab.js.map"
+    "main.3df546da.js.map": "/my-daily-report/static/js/main.3df546da.js.map"
   },
   "entrypoints": [
-    "static/js/main.d49e85ab.js"
+    "static/js/main.3df546da.js"
   ]
 }
